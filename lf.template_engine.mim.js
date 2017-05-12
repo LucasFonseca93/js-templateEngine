@@ -1,0 +1,1 @@
+var _templateEngine={prefix:"{{%s}}",init:function(a){a&&a.prefix&&(this.prefix=a.prefix),this.format=function(a,b){for(var c=Object.keys(b),d=c.length,e=0;e<d;e++)a=a.split(this.prefix.replace("%s",c[e])).join(b[c[e]]);return a},this.generate=function(a,b,c){var d=document.createElement(a||"custom");return d.innerHTML=this.format(b,c),d}}};
