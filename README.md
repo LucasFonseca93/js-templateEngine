@@ -10,4 +10,5 @@ To use just include the script on your page:
 If you want to load the component dynamically at a glance at this other component:<br/>
 https://github.com/LucasFonseca93/js-scriptInjector <br/>
 
-For usage examples, navigate to: https://github.com/LucasFonseca93/js-templateEngine/tree/master/examples
+For usage examples, navigate to: <br/> 
+https://github.com/LucasFonseca93/js-templateEngine/tree/master/examples
