@@ -4,7 +4,7 @@ Extremely simple component for working with pure javascript and html templates.
 
 To use just include the script on your page:
 ```
-<script src="YOUR_PATH/lf.template_engine.js"></script>
+<script src="YOUR_PATH/js.template_engine.js"></script>
 ```
 
 If you want to load the component dynamically you can use this other component:<br/>
